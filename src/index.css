@@ -1,0 +1,12 @@
+@import url(./vendor/fonts/fonts.css);
+@import url(./utils/variables.css);
+@import url(./components/Footer/slider.css);
+
+body {
+  background: #2C2C2E;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: #fff;
+  -moz-osx-font-smoothing: grayscale;
+}
+
